@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Diogo
+# Oi, eu sou o Diogo Araújo
 
 ## 💼 Perfil Profissional
 
