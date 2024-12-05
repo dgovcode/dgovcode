@@ -1,23 +1,18 @@
 # Oi, eu sou o Diogo Araújo
 
-## 💼 Perfil Profissional
+- Estudante de Programação
+- Apaixonado por Tecnologia
 
-- 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
-
-## 🚀 Habilidades
-
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
-
-## 👨‍💻 Linguagens: 
+## Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ux)](https://skillicons.dev)
 
-## 🧰 Frameworks: 
+## Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
-## ⚙️ Ferramentas:
+
+## Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)<br><br>
 
-## 📫 Contato
+## Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-dgovops@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgovops@gmail.com)
 [![Linkedin: Diogo](https://img.shields.io/badge/-dgovcode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgovcode/)](https://www.linkedin.com/in/dgovcode/)
