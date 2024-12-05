@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Diogo
 
-<!--
-**dgovcode/dgovcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Perfil Profissional
 
-Here are some ideas to get you started:
+- 💻 Estudante de Programação
+- 🌱 Apaixonado por Tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ux)](https://skillicons.dev)
+
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+![Gmail Badge](https://img.shields.io/badge/-dgovops@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgovops@gmail.com)
+[![Linkedin: Diogo](https://img.shields.io/badge/-dgovcode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgovcode/)](https://www.linkedin.com/in/dgovcode/)
+
+![Dgovcode GitHub stats](https://github-readme-stats.vercel.app/api?username=DgovCode&show_icons=true&theme=dark) <br><br>
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 
