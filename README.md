@@ -19,4 +19,3 @@
 
 ![Dgovcode GitHub stats](https://github-readme-stats.vercel.app/api?username=DgovCode&show_icons=true&theme=dark) <br><br>
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 
